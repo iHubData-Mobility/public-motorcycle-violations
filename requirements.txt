@@ -1,0 +1,12 @@
+opencv-python
+lxml
+tqdm
+tensorflow
+absl-py
+easydict
+matplotlib
+pillow
+shapely
+pandas
+scipy
+scikit-learn

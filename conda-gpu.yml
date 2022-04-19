@@ -1,0 +1,17 @@
+name: yolov4-gpu
+
+dependencies:
+  - python
+  - pip
+  - matplotlib
+  - opencv
+  - cudnn
+  - cudatoolkit
+  - pip:
+    - tensorflow
+    - opencv-python
+    - lxml
+    - tqdm
+    - absl-py
+    - easydict
+    - pillow

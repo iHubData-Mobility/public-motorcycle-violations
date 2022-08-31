@@ -52,7 +52,7 @@ Copy and paste Trapezium_Prediction_Weights.pickle from your downloads folder in
 git clone https://github.com/iHubData-Mobility/public-motorcycle-violations.git
 
 # step into the triple-riding violations folder
-cd tripple-rider-violations/
+cd public-motorcycle-violations/
 
 # uncomment below line ONLY if you run into any dependency issues while following tutorial
 pip install -r requirements.txt

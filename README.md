@@ -49,7 +49,7 @@ Copy and paste Trapezium_Prediction_Weights.pickle from your downloads folder in
 ## Setup the tracker
 ```bash
 # clone repository for violation tracking
-git clone https://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@github.com/CVIT-Mobility/tripple-rider-violations.git
+git clone https://github.com/iHubData-Mobility/public-motorcycle-violations.git
 
 # step into the triple-riding violations folder
 cd tripple-rider-violations/

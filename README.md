@@ -1,6 +1,6 @@
 # Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kIUNBpGWHc8eLSoLSU1Jx7kJza16A9xo#scrollTo=mfSnq1KmGSor)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NGemCtbWwAjSoZHBAOpqjM8Wc3xp6npL)
 
 
 Motorcycle Violation detection, tracking and counting implemented with YOLOv4, Curriculum-learning based model training, Trapezium-shaped bounding box approach, DeepSort, and TensorFlow. Our work proposes the use of camera mounted on vehicle to jointly track triple-riding and helmet violations on crowded asian streets.We also demonstrate the effectiveness of using curriculum learning for motorcycle violations and trapezium bounding boxes instead of conventional rectangular boxes. Our work lays the foundation for utilizing such systems for increased road safety. It can be used for surveillance in any corner of the city without any huge cost of a static camera network. In the future, we wish to explore the possibility of deploying our system to a distributed GPU setup for city-wide surveillance.
